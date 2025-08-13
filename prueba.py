@@ -4,6 +4,9 @@ def prueba():
 def otra_prueba():
    print("Otra prueba")
 
+def nuevo_cambio():
+   print("El diablo")
 
 prueba()
 otra_prueba()
+nuevo_cambio()
